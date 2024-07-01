@@ -1,0 +1,155 @@
+{
+  "cookies": [
+    {
+      "name": "mipauth",
+      "value": "77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48U2VjdXJpdHlDb250ZXh0VG9rZW4gcDE6SWQ9Il8yYWY0ZWY5ZS0zNzFiLTQ5MjYtYmIxNy0yNjMzOTNjODU4MGItMEFCMUYyOUE5ODE2MkU2ODAzOTdGQzMwM0ZDMThEQkMiIHhtbG5zOnAxPSJodHRwOi8vZG9jcy5vYXNpcy1vcGVuLm9yZy93c3MvMjAwNC8wMS9vYXNpcy0yMDA0MDEtd3NzLXdzc2VjdXJpdHktdXRpbGl0eS0xLjAueHNkIiB4bWxucz0iaHR0cDovL2RvY3Mub2FzaXMtb3Blbi5vcmcvd3Mtc3gvd3Mtc2VjdXJlY29udmVyc2F0aW9uLzIwMDUxMiI+PElkZW50aWZpZXI+dXJuOnV1aWQ6ODczZjMzYjEtYmIwNC00M2YxLWIxZGYtMTVmNTIwODYxMDU1PC9JZGVudGlmaWVyPjxDb29raWUgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwNi8wNS9zZWN1cml0eSI+UHVRWDhFZUFqT0k4T0VjSDdLTW5xV2xmdGp5R3hlVmlpZUxQL2svMFFGUzdScFlOV3VBbHJLU0sxTlVuSElPZk5CdTVhdnROaG9aUjFNcUZWWks2RjZvWVZlRnNSMEVZZnR0UHlGbEZqNWV4aDc5SUFCZnhnSDh4NU44VDBBNVJvUW5pb0lIVkRtc0tPWWFyenZVU1FWdS9WSEJyYUNsdXB6Y25zcHNnN2ZYa0s5T3pQcjM2cTRkMkM2MVZML1JmbU5PbWlFL3hZQnBnZXlZNldabC8wTGRNZTEvaHJZN3h2elJZYUdKUTRJNUpDd3Y3ZWxRcFUrSFZTc0VQbUxINkRpRWZPNHI0eGI4R1BsYTEycE5tUFJOcUMzeFQyZUtscStRWFZGY2NhYjJRbE12M0ozdTlwWjZwMy9pNEpMam9XSnFYSVRlcFlOVnlIOXJRYmtxbjREdExaZWQ4OFZOaTRSWjgydGJrU1pSb0xzdElmYnpoYlkyNkFIMEYxUS9LOTRwaFV4WndhV1YwYWozZlVPQTlxekVXaUhOZ21GTmw2d0xNbFBkWXpEMEcvMVRpRUprVnZtNnRkMHhZalVnTmtMMk9KRDYvM3pCVHlHYWxkeHdFSTZWbUEvYklNa1UwUllxTDZMMXFLdm9VRUJuRUxBRWl6QmN3ZGQxVTVvYm9JbnJuQ3F3b0lMVjR5ejJqWUZBbmZML3JYLzk1LzhGZkIwTWhWRmhMeStOREU0RWFKOHB4Uy9lU00vWmtNZVhzSU1wSnRUemZmWnhWbkZlc3lWNUhKQ0ExZGpVVm5HUWdBdEs2Q0xsQWZMSTJJWGNZS05kaXBsbUFBbHJwZVoxL3FQNE9YdFJXcHNySXZqNng2UnIzQ3hwa1hoaVI4MDFDY1NvTENFdzErOFQ1MVdXWHJjQURZQlRGTHM5UE5rKzMxVG8zNTFCbEhVckZBNCtQQTFnMVNFQmprK1FSTm5WMWVNcTFmUllSdVRCWW44dHN3QUIxb3kybFBwWThJUHRNL2NTczNSOWlKSEdtMGFxN0RQWTJOck1CTGpiUXBnUmJzZWhnak9kT2FpaDF3Y2RRQkxaME9tREo2TWRPUHhObk9GY2taS3EvalhJWlpTR2FzYzBKVy9XU2VHSm16WG9JeUdYdUFWK2RYL2JsS3NCSzB1UmZmcENsVThqR01nT3pTYmljU1BnUG1mSkMvZmpmTXJNNnNBPT08L0Nvb2tpZT48L1NlY3VyaXR5Q29udGV4dFRva2VuPg==",
+      "domain": "mipstg.moe.gov.sa",
+      "path": "/mim/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "wsfedsignout",
+      "value": "https://jameah-n-stg.moe.gov.sa/",
+      "domain": "mipstg.moe.gov.sa",
+      "path": "/mim",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TempData",
+      "value": ".pgREuCICTHFgN3Y/3pA5nJV0SA5S5pFTu50Yia42euErtOp/sdJT0DdFA2oHF8QJ4WIf18Ah9SEgxyEg6GJFdlO77P7p/Bq9ghz7E9Aa/17B73T+t2Afx04n7tOseV4+Y8wf2TMJTS/G13F9osEpN/UTnC42O2XaZ8OsKPNG+A+ehxxn94nJHp6Y3xqzha7eYNIsQuZv1MIMgNaYmMeOvuXLj+fW28QkEHQ2CMpI+TBHhFA9mSY9247oRDF1IuR0mrGdSlrl+KvtpO4QE4CqH0w/owse8c8JrPTa9spfuxEGhTMJzygT7+otPGNGG7oZeo4xvS+PBTl+6ISaJeMJ+VEQP+ffyJ5pHJS2A69jeGX20Fs+vyPaz9xtr9GfqulYKRqBXX1reJAgrWGepCWPHXC6v6Lbnl0RotgkTS9j1N5uGf5NcDuwjyp7XhF+rGS4jLAPi94Nem3/Koopy4+aibpJQ9nh5cXNx0VY2Am+Zck=",
+      "domain": "mipstg.moe.gov.sa",
+      "path": "/mim",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TraceId",
+      "value": "AUg2ecKwzrpgQTCIGZ-97ERo0T7KElDZYmEwnRH_fBMgby07aibF2_AIAYWAVGfWePuOnKoTqhxziYm-cOJZ53oh5w5HuHDPq--evZDZYkk7JElY0",
+      "domain": "jameah-n-stg.moe.gov.sa",
+      "path": "/",
+      "expires": 1720163986.110938,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "BIGipServerPOOL_Jameah-n-stg",
+      "value": "rd31o00000000000000000000ffffc0a81fc5o80",
+      "domain": "jameah-n-stg.moe.gov.sa",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga",
+      "value": "GA1.1.1374029702.1719559194",
+      "domain": ".moe.gov.sa",
+      "path": "/",
+      "expires": 1754119193.610052,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Jameah2.Cookie",
+      "value": "bnhvlv04kl5e4gqenznepcz1",
+      "domain": "jameah-n-stg.moe.gov.sa",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "TraceId",
+      "value": "3cezAyNUqGa3aDlqFjIuhgFDGYPRIV9YA7r4p2RnYwwK5V7jbTB6UXqFZt61Rph4n06OEYMv3uwWJy6lN9IiP5Rucx8JF7fN18nGFalZwBI=",
+      "domain": "mipstg.moe.gov.sa",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "mipcaptcha",
+      "value": "ns2gv1ub5plvs45eu5suyboe",
+      "domain": "mipstg.moe.gov.sa",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__RequestVerificationToken_L21pbQ2",
+      "value": "Lxz4Yswemyiis1Ve-afenBXd42SjYtclDC-t76gXqNR89XiSx-7ZHjFV1YI9wFwk8_U-oG9MMxsOKf-8xae3Lvwl5eZRu8Lr076KfRPyvnU1",
+      "domain": "mipstg.moe.gov.sa",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "_ga_21FVL2NCSN",
+      "value": "GS1.1.1719559193.1.0.1719559196.0.0.0",
+      "domain": ".moe.gov.sa",
+      "path": "/",
+      "expires": 1754119196.400872,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Jameah2.LocalAuth",
+      "value": "77u/PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48U2VjdXJpdHlDb250ZXh0VG9rZW4gcDE6SWQ9Il9lYTdhNGJlMi1kYmI5LTQ0ZmYtYmU5ZC1kZjA2YzFiZTIzMWItRTIyOUQyM0UyQTFBNTQzQTNGQjE2MzBCNzk4MDEzMTgiIHhtbG5zOnAxPSJodHRwOi8vZG9jcy5vYXNpcy1vcGVuLm9yZy93c3MvMjAwNC8wMS9vYXNpcy0yMDA0MDEtd3NzLXdzc2VjdXJpdHktdXRpbGl0eS0xLjAueHNkIiB4bWxucz0iaHR0cDovL2RvY3Mub2FzaXMtb3Blbi5vcmcvd3Mtc3gvd3Mtc2VjdXJlY29udmVyc2F0aW9uLzIwMDUxMiI+PElkZW50aWZpZXI+dXJuOnV1aWQ6MjA2NjE4YjItZTUzYi00YTRmLTkyNGEtNWY2MDIwMWJlNTk1PC9JZGVudGlmaWVyPjxDb29raWUgeG1sbnM9Imh0dHA6Ly9zY2hlbWFzLm1pY3Jvc29mdC5jb20vd3MvMjAwNi8wNS9zZWN1cml0eSI+eGVUeE15S0hiZFlkcG0zcnA0N1QvZ2wvQ3hWZmpKQkZJZG4vQ1BPNmVObkFXcGJWeGJQV3MvZjc4WnJsNjFFSDJwaWp2M25GVmFtM1dhZjlUckcxUWljL0hOWnZKYnpZWHBkVjhHbURHYWY5Nkl4bCs3bTMzRW90MlUyMm53b1pVVEw3S1J2dGpHekxqUURIV0VGSmxnZ0R2NHcybWlseUt3N0o4UWtneDdDc3diT0t2SDJSem5EVmdsSkFWaFdlQnEzRUdvZ1RTOEtmdlNWaUg4S0NZWk0zTHpvNVNjWXo0U2NLcG1jdkZVRUNpcXNJMDZ2RzAvOUlPN3NRL2JqT0lBR3VVdVJHaHd1TGZhVFFYZ3FNdUxRMXVhUFJkelQ3TFBTWTdHNWlvdUJSU1dxL21PdHI4TDNmalQ4dGxMcC94SHlNSzdsTCtud256UDBzQ0diR1ZudVRvSS9Lbzc3RzJWclEvZGU1Z014WXREdUVOeHdSR2xSYUVWREprNmdmY1ArYXBrTVVJalRoc3NsK1ZXYy9TTEQ4WHNkdU1MSks3SzhZN2RtVzdCY20xcTJRV2pnNmJHVktIbmF4VnNHNy9GOHpUakFyWHkwQmhFZFhXbUVxWmdJemFCUVQ1ZHlvalo4YXFFS2k5Y3RIeU5wdE13ckw4bXpDb09INWhjR2hPMkNNSmRvV2wvL2c3SFFyNXhZRmFLU1p6VE9Zd01LQXFRcVZsNHhmeEMrZmhhVkhsUDBuU0JEZkRsK0lwLzJVSGlveWZlWS9OV0IyQU9YRHkvUkdHVFZCbldCSHBvc29sdlVNa0pra0wzTU9zazJiSzg4OUg3dVkvWWRhNy80WUdJb2ZHeEU3b2piTlo5SkpiU1k1UUtZMTRVM1pycVFHaktWUGxaWHIxRlQwb3Rjc2JTanU0dFZ2ZlFmN2lTQzJjWXIwVUVOTyt6WG1LN2E1MlkrRzRIMGRpR29ZbXpCeTBQL25HK2U4aEtoMGRBNjh4QU45bDFlM0t3OHg3a1ZuSzFNTU1uY2w4dkkrMG1lekRtdmp6OS9xOWtJWHVCcnZjNEY2OFpCd2NiZHQvUllUWGNaMytWZWlWakF5aG1wQTUwdGNJc3NuSnNXL3ZyYitvd1hhK0JIek11bHpWVTJyUmNKVGR6YmdmN0FpYlAzTjUvRmVHVmJieEhLc2loSkkyOWJrd3E1MDNjSzBpL2JNMUxFMlNVbFAxTGFCcmdJYXVoK2F3VTM5dzFLVGcvdEF3eGE5cWVIZVlJZjhpZ21kTHpqR3ZDTnpMdXF4RUMrRm1lSmthZEJ6UDJ0VXg4RWtRc2x4dk1GNmRvMjBQbzZyZ3B3UlJudE9SbWs0elRyLzBwM2NKRGZwa0JaY0FTb2lVWjBrV3d3ejJheU5sajdpa1pq",
+      "domain": "jameah-n-stg.moe.gov.sa",
+      "path": "/",
+      "expires": 1719562800.786311,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "Jameah2.LocalAuth1",
+      "value": "TVpBOEUvdGJyUkVRU3BuaFZPb01OU25zL1lETGNIK2NuUXpLTTJoaGcwS0h5dzhVMUdFblgvVS90RlV2SDZSOS9xYmNLWHlLamhUODd5d0p0THE5QlFCZlpVTjBva2VrZ2hnckg1dlZvM2J2Rk1vdlovTGJ0NGFOa0p2NVFOV2VTZEJSODBnRmoxdEZiR3lFQkZDQ3NHQ2o2Z3hxZndGbDVsZkgxVHFwV3JvVk5xWFg4c3phNnRuNDB4SGJpOFBkRE5TaktsdEU3cVdhc3B1M1A4WmZZQVlaRGxrZmNVQlB1UGlOckE3YmlLdlFnZm84NjVPRVNvRHlGYkVXcUFCdGlyMTlreTBicDZnNEY3TE90TXZZa2FIRU0zb3JtYnpFaHhMemMyVUsxRVYxTy9sUnhGeUZWM3RqZ1hzMWI1U2x1MmhZVEpwd2RYaHlrSkNtRDZyaGVsSTBMcEhpTW1JYXhmUTBZZU8rTExvUzFuN1VoSGlyRFRDZFNGYUJmcVhZUi9haTkwVkI1RDNjc21tY3d0OFJMaWV6dnM0SjBYbzcwbGtKdW10VEJnbmxwQytUVHNxTE5McDZHQTNzdFQ3MnBxbjc3K29qaGFQVHdwYVUraXJPWmczWkJ4WGUyM3BScysySnRYMUpnbnRKUHI2TWlEcXBBT1hzUEllVk5ManJ4akxhNjN5MmlsZ3hEY1ZtN1J0ZTU2N2V4bitQT0UvbkNzQ0VKNXN5dFA0UTR2d052WWtoNm85QkNtZlNGZGRUZEk4c05EOUh5bGprT20wcU91U3lpRTlUZTRva2VhRGRwelE9PTwvQ29va2llPjwvU2VjdXJpdHlDb250ZXh0VG9rZW4+",
+      "domain": "jameah-n-stg.moe.gov.sa",
+      "path": "/",
+      "expires": 1719562800.786556,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "__RequestVerificationToken",
+      "value": "3Z-F3tGHyGu55VtG3z-lKcygQyObHj3BvMrVo0BXZFnW_lYQYsbJ1amA3Ko8YPQhWCrWYCB_b7-Es6C4vZFYMO5LNwU1",
+      "domain": "jameah-n-stg.moe.gov.sa",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": ".flsc",
+      "value": "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",
+      "domain": "jameah-n-stg.moe.gov.sa",
+      "path": "/",
+      "expires": -1,
+      "httpOnly": true,
+      "secure": false,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": []
+}
